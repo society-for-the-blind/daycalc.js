@@ -1,8 +1,8 @@
 
  DESCRIPTION  
    Calculates instructional days for a certain quarter to 
-   schedule client authorizations. This awesome tool will save at
-   least 30 minutes a year. I KNOW!
+   schedule client authorizations. It is not pretty but it
+   will save us up to 30 minutes a year. I KNOW!
 
  TODO  
    - rewrite in purescript
